@@ -1,0 +1,6 @@
+name: Golem
+version: 0.1.0
+main: com.keplersj.golem.GolemPlugin
+description: Integrated MCP Server
+author: Kepler Sticka-Jones
+api-version: 1.21.10

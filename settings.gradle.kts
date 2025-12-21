@@ -6,3 +6,5 @@
  */
 
 rootProject.name = "golem"
+
+include(":paper")
